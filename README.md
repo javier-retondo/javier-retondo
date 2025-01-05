@@ -6,10 +6,6 @@
 
 I specialize in building scalable backend systems, creating REST APIs, and integrating modern frontend technologies. Currently, I work at [Sooft Technology](https://github.com/sooft) as a backend developer, where I contribute to building robust software solutions.
 
-## Featured Projects 🚀
-- [REST API for User Management](#)
-- [Fullstack Sales Application](#)
-
 ## GitHub Profiles
 - **Personal Profile (Active):** [jretondo](https://github.com/javier-retondo)  
 - **Work Profile:** [jretondo-sooft](https://github.com/jretondo-sooft)  
