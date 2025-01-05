@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Javier 👋
 
-<!--
-**javier-retondo/javier-retondo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Backend Developer**  
+🔧 **Technologies:** Node.js, TypeScript, NestJS, Express, Python, Flask  
+🎨 **Frontend Knowledge:** JavaScript, React  
 
-Here are some ideas to get you started:
+I specialize in building scalable backend systems, creating REST APIs, and integrating modern frontend technologies. Currently, I work at [Sooft Technology](https://github.com/sooft) as a backend developer, where I contribute to building robust software solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects 🚀
+- [REST API for User Management](#)
+- [Fullstack Sales Application](#)
+
+## GitHub Profiles
+- **Personal Profile (Active):** [jretondo](https://github.com/javier-retondo)  
+- **Work Profile:** [jretondo-sooft](https://github.com/jretondo-sooft)  
+- **Legacy Profile:** [jretondo](https://github.com/jretondo) (contains outdated public code, maintained for specific purposes)
+
+## Professional Experience
+Currently working at **Sooft Technology**, contributing to backend development projects using modern frameworks like Flask and NestJS. I actively collaborate with teams to design, implement, and optimize scalable APIs.
+
+## Skills
+- **Backend:** Node.js, TypeScript, NestJS, Express, Python, Flask  
+- **Frontend:** JavaScript, React  
+- **Database Management:** PostgreSQL, MySQL, Sequelize, MongoDB
+- **Testing:** Jest, Mocha  
+- **Tools:** Docker, Git, 
