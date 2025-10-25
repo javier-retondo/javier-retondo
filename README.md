@@ -19,4 +19,4 @@ Currently working at **Sooft Technology**, contributing to backend development p
 - **Frontend:** JavaScript, React  
 - **Database Management:** PostgreSQL, MySQL, Sequelize, MongoDB
 - **Testing:** Jest, Mocha  
-- **Tools:** Docker, Git, 
+- **Tools and Infra:** Docker, Git, Kubernetes, RabbitMQ, Grafana, Dynatrace, Argocd
